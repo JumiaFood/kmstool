@@ -1,6 +1,6 @@
 GOFMT_FILES?=$$(find . -name '*.go' | grep -v vendor)
 TEST?=$$(go list ./...)
-PACKAGE=github.com/foodpanda/kmstool
+PACKAGE=github.com/JumiaFood/kmstool
 
 .PHONY: help
 

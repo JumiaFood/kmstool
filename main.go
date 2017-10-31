@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/foodpanda/kmstool/src"
+	"github.com/JumiaFood/kmstool/src"
 	"os"
 )
 
